@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://chvay1996:12arT67PdG09@tabla.ozrrovz.mongodb.net/ALBIONBM?retryWrites=true&w=majority"
+}
